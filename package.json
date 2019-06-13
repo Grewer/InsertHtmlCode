@@ -1,6 +1,6 @@
 {
   "name": "insert-html-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "insert code",
   "main": "index.js",
   "repository": "https://github.com/Grewer/InsertHtmlCode",
