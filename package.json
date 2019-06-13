@@ -1,0 +1,19 @@
+{
+  "name": "insert-html-code",
+  "version": "1.0.0",
+  "description": "insert code",
+  "main": "index.js",
+  "repository": "https://github.com/Grewer/InsertHtmlCode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "grewer <grewer@grewer.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "html-webpack-plugin": "4.0.0-alpha.2"
+  }
+}
